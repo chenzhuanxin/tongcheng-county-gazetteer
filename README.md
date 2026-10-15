@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="120" alt="tongcheng-county-gazetteer"></p>
+
 # 通城县地名志（Tongcheng County Gazetteer of Place Names）
 
 > 湖北省咸宁市通城县地名志 · 数字化成果库
